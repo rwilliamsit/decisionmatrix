@@ -1,6 +1,5 @@
 Demo Video
 ![](https://github.com/mmorosky/decisionmatrix/blob/master/images/GifTutorial.gif)
-Video version: https://www.youtube.com/watch?v=EVgMYKIOB0s
 
 Try it!
 Live version: https://mmorosky.github.io/decisionmatrix/
