@@ -1,4 +1,3 @@
-Demo GIF (Video here: https://www.youtube.com/watch?v=EVgMYKIOB0s)
 ![](https://github.com/mmorosky/decisionmatrix/blob/master/images/GifTutorial.gif)
 
 Try it!
